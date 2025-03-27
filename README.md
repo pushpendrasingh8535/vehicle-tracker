@@ -50,4 +50,4 @@ The code includes several key functions:
 ## Acknowledgments
 - [Arduino](https://www.arduino.cc/)
 - [TinyGPS++ Library](https://github.com/mikalhart/TinyGPSPlus)
-- [ResearchPaper](https://shorturl.at/dUwJP)
+- [ResearchPaper](https://drive.google.com/file/d/1ZRaERi79drfxl2U_C5F14e4ZHzzDZDvd/view)
