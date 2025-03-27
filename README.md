@@ -47,9 +47,6 @@ The code includes several key functions:
 - `getGPSData()`: Retrieves GPS coordinates from the GPS module.
 - `sendSMS()`: Sends an SMS message to a specified number.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - [Arduino](https://www.arduino.cc/)
 - [TinyGPS++ Library](https://github.com/mikalhart/TinyGPSPlus)
