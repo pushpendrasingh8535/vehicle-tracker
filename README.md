@@ -25,7 +25,7 @@ This project implements a vehicle tracking and theft alert system using an Ardui
 - `TinyGPS++`
 - `LiquidCrystal`
 
-## Connect the hardware components as per the wiring diagram.
+## Connect the hardware components as per the Pin Configuration.
 
 ![image](https://github.com/user-attachments/assets/155124f8-3df0-4d1c-ad16-34a7b03081d5)
 
