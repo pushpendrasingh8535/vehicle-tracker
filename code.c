@@ -32,7 +32,7 @@ String senderNumber = "";
 String keyword = "LOCATION";  
 String responseMessage;
 String theftNumber = "+xxxxxxxxxxxx";  // Emergency number  (With country code)
-String authorizedNumber = "++xxxxxxxxxxxx";  // Only this number can request location  (With country code)
+String authorizedNumber = "+xxxxxxxxxxxx";  // Only this number can request location  (With country code)
 
 void setup() {
     Serial.begin(9600);
